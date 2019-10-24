@@ -1,0 +1,5 @@
+Assignment 1 Errata
+
+1. When calculating the margin of error for the "qualtrics" dataset. Determine the confidence interval for the winning candidate in that dataset.
+
+2. There are some duplicated names in the voter rolls, just ignore the duplicates. They are unimportant to the assignment.
