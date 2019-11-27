@@ -7,7 +7,7 @@ Entity Resolution is the task of disambiguating manifestations of real world ent
 ## Getting Started
 First, download the starter files from:
 ```
-https://github.com/sjyk/cmsc21800/assignment4.zip
+https://github.com/sjyk/cmsc21800/blob/master/assignment4.zip
 ```
 Your code will go into `analzye.py`. You will also need to fetch the datasets used in this homework assignment:
 ```
