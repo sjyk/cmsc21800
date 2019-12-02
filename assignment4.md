@@ -53,7 +53,7 @@ Running the code will print out a result report as follows:
 114.487954 seconds
 
 ```
-*For full extra credit, you must write a program that achieves at least 35% accuracy in less than 3 mins on a standard laptop.*
+*For full credit, you must write a program that achieves at least 35% accuracy in less than 3 mins on a standard laptop.*
 
 ## Submission
 After you finish the assignment zip up all of your .py files and email them to (please exclude the data files from the zip because they will be hard to download):
